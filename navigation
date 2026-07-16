@@ -1,0 +1,12 @@
+Typical MERN project startup
+
+Terminal 1  :-
+
+            cd backend
+            npm start
+
+
+Terminal 2  :-
+
+            cd frontend
+            npm run dev
